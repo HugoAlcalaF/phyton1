@@ -1,0 +1,37 @@
+#Que bonito es Phyton
+print ("Hola Mundo")
+print ("me llamo Hugo")
+print ("Hola Mundo me llamo Hugo")
+#Nuestra primera variable
+x=5
+print (5)           #Imprime 5
+print (5*5)         #Imprime 25
+print (x)           #Imprime 5
+print ("print(5*5):")
+
+print(x+10)
+#Creamos una variable con texto -> string
+nombre="Celia"
+numero=8
+print(nombre)
+print("Sumo nombre+numero:")
+print("Celia"+"8")
+print(nombre+str(numero))
+print('print(nombre+str(numero)):')
+print(numero*numero)
+print(x*numero)
+print("CuCU"*10)
+print()
+print("Hacemos operaciones matematicas")
+print("\n\\Hacemos\"operaciones\"\t matematicas\\")
+num1=2
+num2=8
+suma=num1+num2
+resta=num1-num2
+multp=num1*num2
+div=num1/num2
+print ("suma="+str(suma)+"\
+|Resta="+str(resta)+"\
+|Multiplicacion="+str(multp)+"\
+|Division"+str(div))
+       
